@@ -20,6 +20,7 @@ Below are the core functionalities integrated into the Smart Contract:
 
 # Contract
 Contract link : https://stellar.expert/explorer/testnet/tx/595fd7c84c83c05dae14b131d4efeffde067fb570ebd97d507611ded379ee141
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/52548469-7b96-47b6-b551-7e41f8ee281d" />
 
 ## 🚀 Future Scopes
 While the current smart contract provides a solid foundation for an NFT Marketplace, there are several exciting features and optimizations planned for future updates:
